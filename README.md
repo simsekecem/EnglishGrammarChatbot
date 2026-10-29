@@ -41,5 +41,3 @@ A standalone version that combines both training and UI launching logic. It is u
 - **Hardware:** GPU recommended (CUDA support is automatically detected).
 - **Libraries:** `transformers`, `torch`, `gradio`, `pandas`, `datasets`.
 
----
-*Focusing on the intersection of deep learning and linguistics for automated writing assistance.*
